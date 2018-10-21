@@ -1,0 +1,24 @@
+C:\Users\Md. Siddiqur Rahman\Downloads\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\DiagnosticBillManagementSystem.dll.config
+C:\Users\Md. Siddiqur Rahman\Downloads\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\DiagnosticBillManagementSystem.dll
+C:\Users\Md. Siddiqur Rahman\Downloads\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\DiagnosticBillManagementSystem.pdb
+C:\Users\Md. Siddiqur Rahman\Downloads\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\itextsharp.dll
+C:\Users\Md. Siddiqur Rahman\Downloads\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\itextsharp.xml
+C:\Users\Md. Siddiqur Rahman\Downloads\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\obj\Debug\DiagnosticBillManagementSystemWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Md. Siddiqur Rahman\Downloads\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\obj\Debug\DiagnosticBillManagementSystem.dll
+C:\Users\Md. Siddiqur Rahman\Downloads\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\obj\Debug\DiagnosticBillManagementSystem.pdb
+C:\Users\Md. Siddiqur Rahman\Desktop\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\DiagnosticBillManagementSystem.dll.config
+C:\Users\Md. Siddiqur Rahman\Desktop\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\DiagnosticBillManagementSystem.dll
+C:\Users\Md. Siddiqur Rahman\Desktop\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\DiagnosticBillManagementSystem.pdb
+C:\Users\Md. Siddiqur Rahman\Desktop\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\itextsharp.dll
+C:\Users\Md. Siddiqur Rahman\Desktop\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\itextsharp.xml
+C:\Users\Md. Siddiqur Rahman\Desktop\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\obj\Debug\DiagnosticBillManagementSystemWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Md. Siddiqur Rahman\Desktop\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\obj\Debug\DiagnosticBillManagementSystem.dll
+C:\Users\Md. Siddiqur Rahman\Desktop\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\obj\Debug\DiagnosticBillManagementSystem.pdb
+F:\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\DiagnosticBillManagementSystem.dll.config
+F:\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\DiagnosticBillManagementSystem.dll
+F:\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\DiagnosticBillManagementSystem.pdb
+F:\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\itextsharp.dll
+F:\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\bin\itextsharp.xml
+F:\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\obj\Debug\DiagnosticBillManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\obj\Debug\DiagnosticBillManagementSystem.dll
+F:\New folder\DiagnosticBillManagementSystem\DiagnosticBillManagementSystem\obj\Debug\DiagnosticBillManagementSystem.pdb
